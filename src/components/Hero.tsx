@@ -30,7 +30,7 @@ export default function Hero() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-8 py-3 rounded-lg quantum-gradient text-white font-semibold hover:scale-105 transition-transform duration-300 hover:glow-cyan flex items-center gap-2">
+                <button className="px-8 py-3 rounded-lg quantum-gradient text-black font-semibold hover:scale-105 transition-transform duration-300 hover:glow-cyan flex items-center gap-2">
                   Download
                   <ChevronRight className="w-5 h-5" />
                 </button>
